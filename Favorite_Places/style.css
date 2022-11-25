@@ -1,0 +1,39 @@
+.favourite-places-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.favourite-places-heading {
+    color: white;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 24px;
+    ;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.favourite-place-card-paragraph {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #6c6b70;
+}
+
+.favourite-place-card-image {
+    height: 80px;
+    width: 80px;
+}
